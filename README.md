@@ -43,8 +43,25 @@ Dan hasil outputnya adalah : <p>
   
  ![image](https://user-images.githubusercontent.com/81542329/121977853-ca8dfe80-cd3b-11eb-88c4-f91d31cf8a29.png) <p>
   
+Tugas praktikum  : <p>
   
+Menu Home <p>
+  
+ ![image](https://user-images.githubusercontent.com/81542329/121978494-2d33ca00-cd3d-11eb-9637-eda6202fce22.png) <p>
+ 
+Menu artikel <p>
+  
+  ![image](https://user-images.githubusercontent.com/81542329/121978607-6bc98480-cd3d-11eb-863d-30156a50852b.png) <p>
 
+  
+Menu About <p>
+  
+  ![image](https://user-images.githubusercontent.com/81542329/121978643-7ab03700-cd3d-11eb-93e4-a3c9404f6e7c.png) <p>
+
+
+Menu Kontak <p>
+  
+  ![image](https://user-images.githubusercontent.com/81542329/121978672-90bdf780-cd3d-11eb-88bb-37fa338684bb.png) <p>
 
 
 
